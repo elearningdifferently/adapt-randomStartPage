@@ -1,0 +1,20 @@
+{
+    "name": "adapt-randomStartPage",
+    "framework": "^2.0.0",
+    "version": "1.0.0",
+    "homepage": "https://github.com/sharpb/adapt-randomStartPage",
+    "repository": "https://github.com/sharpb/adapt-randomStartPage.git",
+    "issues": "https://github.com/sharpb/adapt-randomStartPage/issues/",
+    "displayName": "Random start page",
+    "extension": "randomstartpage",
+    "authors": [
+        "Ben Sharp"
+    ],
+    "description": "Starts the course on a random page (skips the menu and hides back button).",
+    "main": "/js/adapt-randomStartPage.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
