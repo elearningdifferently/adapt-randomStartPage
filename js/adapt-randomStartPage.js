@@ -21,7 +21,7 @@ define(function(require) {
             // Jump to new ID
             window.location.hash = "#/id/" + newRouteID;
         } else {
-            console.log("No pages found");
+            console.log("adapt-randomStartPage: No pages found");
         }
     });
     
@@ -34,4 +34,4 @@ define(function(require) {
         });
     });
     
-})
+});
