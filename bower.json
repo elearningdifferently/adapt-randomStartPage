@@ -2,7 +2,7 @@
     "name": "adapt-randomStartPage",
     "repository": "git://github.com/sharpb/adapt-randomStartPage.git",
     "framework": "^2.0.0",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "homepage": "https://github.com/sharpb/adapt-randomStartPage",
     "issues": "https://github.com/sharpb/adapt-randomStartPage/issues/",
     "displayName": "Random start page",
